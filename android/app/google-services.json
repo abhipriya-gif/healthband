@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985969466856",
+    "project_id": "iomt-healthband",
+    "storage_bucket": "iomt-healthband.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985969466856:android:5384d999f5c0bd7d3cd85d",
+        "android_client_info": {
+          "package_name": "com.example.healthband"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985969466856-6recn2akdvamvcfgub7af9asv77ksdtf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf6TgmPBEfAC050FCWDvyIje4bCJfMuSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985969466856-6recn2akdvamvcfgub7af9asv77ksdtf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
